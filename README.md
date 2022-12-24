@@ -1,6 +1,4 @@
-
-[![MasterHead](https://d346xxcyottdqx.cloudfront.net/wp-content/uploads/2019/10/siemensgamesaSD80167DDC030011-e1570444071672.jpg)]
-
+[![MasterHead](https://media.istockphoto.com/id/1280385446/vector/blockchain-related-web-banner-line-style-modern-design-vector-illustration.jpg?s=612x612&w=0&k=20&c=XAcivq2CvJ-EJUTb1UneOjKiMm7yyBoRhyPBbrsoQkA=)](https://martinho42.github.io/)
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">Learning how to code</h3>
 
@@ -8,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 📄 Know about my experiences [s](linkin)
+- 📄 Know about my experiences [linkin](linkin)
 
 - ⚡ Fun fact **COol**
 
