@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://d346xxcyottdqx.cloudfront.net/wp-content/uploads/2019/10/siemensgamesaSD80167DDC030011-e1570444071672.jpg)]
 
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate frontend developer</h3>
