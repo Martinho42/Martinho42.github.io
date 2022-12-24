@@ -2,19 +2,15 @@
 [![MasterHead](https://d346xxcyottdqx.cloudfront.net/wp-content/uploads/2019/10/siemensgamesaSD80167DDC030011-e1570444071672.jpg)]
 
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Learning how to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h&label=Profile%20views&color=0e75b6&style=flat" alt="h" /> </p>
 
-- 🔭 I’m currently working on **s**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **s**
+- 📄 Know about my experiences [s](linkin)
 
-- 📝 I regularly write articles on [s](s)
-
-- 📄 Know about my experiences [s](s)
-
-- ⚡ Fun fact **s**
+- ⚡ Fun fact **COol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
